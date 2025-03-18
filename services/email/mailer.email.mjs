@@ -249,7 +249,7 @@ function emailService() {
         }
     }
 
-    // Return the available email service functions 
+    // Return the available email service functions  
     return {
         eventRegistrationEmail,
         judgeRegistrationEmail,
